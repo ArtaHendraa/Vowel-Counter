@@ -1,4 +1,4 @@
-# Vowel Counter
+# Vowel Counter 
 
 Vowel Counter adalah program sederhana untuk menghitung jumlah huruf vokal, konsonan, whitespace, dan karakter lain pada sebuah kalimat.
 
