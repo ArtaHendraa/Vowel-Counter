@@ -15,6 +15,3 @@ Vowel Counter adalah program sederhana untuk menghitung jumlah huruf vokal, kons
 
 Anda bisa melakukan kontribusi terhadap program ini dengan cara melakukan pull request atau melaporkan issue yang ada.
 
-## Lisensi
-
-Program ini dilisensikan di bawah lisensi MIT. Silakan lihat LICENSE untuk detail lebih lanjut.
